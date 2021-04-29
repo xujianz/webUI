@@ -1,0 +1,1098 @@
+1617000121866	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.bhs6DvgHKlQ0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617000126816	Marionette	INFO	Listening on port 57286
+1617000126901	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 2612, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617000135309	Marionette	INFO	Stopped listening on port 57286
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617000247277	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.WTpSUVIzm6Ci"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617000249992	Marionette	INFO	Listening on port 57594
+1617000250015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617000252857	Marionette	INFO	Stopped listening on port 57594
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617000286241	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Ek0eeUA5vWwY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617000288530	Marionette	INFO	Listening on port 57780
+1617000288968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617000291737	Marionette	INFO	Stopped listening on port 57780
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617070774019	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.7Q22Q3sA9LVq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617070778578	Marionette	INFO	Listening on port 58184
+1617070779063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617070783232	Marionette	INFO	Stopped listening on port 58184
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617070914467	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Rth2kaDcujhu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617070916879	Marionette	INFO	Listening on port 58469
+1617070917191	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=selenium&fenlei=256&rsv_pq=b2bce5ae00009a07&rsv_t=f700y%2Bnr7XBVMV6sOOMbdipXjzQlr4A%2FEEnejD2rYG%2BeBfLSx2khODeYwHw&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&rsv_sug1=1&rsv_sug7=100&rsv_btype=i&inputT=195&rsv_sug4=195" "with ads but couldn't find the information"
+1617070920545	Marionette	INFO	Stopped listening on port 58469
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617070950391	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.GcArAeEcVAFJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617070952663	Marionette	INFO	Listening on port 58644
+1617070953120	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=selenium&fenlei=256&rsv_pq=aab5e7d30002d55e&rsv_t=1f7dv%2BkMNMZbsjgTloWxvkcq8F8imfb7Hfu5grBjPcUdQ5UhW0uIlKJqH44&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&rsv_sug1=1&rsv_sug7=100&rsv_btype=i&inputT=215&rsv_sug4=215" "with ads but couldn't find the information"
+1617070956497	Marionette	INFO	Stopped listening on port 58644
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617076413611	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.TP7Iz30gScdo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617076418803	Marionette	INFO	Listening on port 65427
+1617076419142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617076459907	Marionette	INFO	Stopped listening on port 65427
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617076907593	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.1MC6LdqxFhrh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617076910108	Marionette	INFO	Listening on port 50187
+1617076910323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617076916652	Marionette	INFO	Stopped listening on port 50187
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617076965313	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.WpcQc7tlNliM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617076967586	Marionette	INFO	Listening on port 50373
+1617076968043	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617076974138	Marionette	INFO	Stopped listening on port 50373
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617086195627	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.UkhEIJkNO60P"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617086199163	Marionette	INFO	Listening on port 65275
+1617086199459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617086202492	Marionette	INFO	Stopped listening on port 65279
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure1617086207167	Marionette	INFO	Stopped listening on port 65275
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617089255655	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.5HeJKdS5n1Bq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617089258124	Marionette	INFO	Listening on port 54772
+1617089258386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617089301338	Marionette	INFO	Stopped listening on port 54772
+[Child 6792, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617089711743	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Y5fuKSY4CGZO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617089713967	Marionette	INFO	Listening on port 55956
+1617089714472	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617089757245	Marionette	INFO	Stopped listening on port 55956
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617089823347	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.WYmQWqiNpN3l"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617089825675	Marionette	INFO	Listening on port 56290
+1617089826129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617089870514	Marionette	INFO	Stopped listening on port 56290
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617090043740	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ceLWh2GbCuLE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617090046078	Marionette	INFO	Listening on port 56792
+1617090046468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617090052882	Marionette	INFO	Stopped listening on port 56792
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617090088882	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.vdyLw7viCezn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617090091137	Marionette	INFO	Listening on port 56954
+1617090091618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617090098174	Marionette	INFO	Stopped listening on port 56954
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617091732721	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.4BqUBpQEQuSQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617091735075	Marionette	INFO	Listening on port 60053
+1617091735467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617091742101	Marionette	INFO	Stopped listening on port 60053
+1617154415060	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Q6XntdTPjWrk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617154423800	Marionette	INFO	Listening on port 52752
+[Parent 15912, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617154424007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617154430773	Marionette	INFO	Stopped listening on port 52752
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617335274418	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.IQxk2jaR3O18"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617335277859	Marionette	INFO	Listening on port 53042
+1617335278348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617335321339	Marionette	INFO	Stopped listening on port 53042
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617335723782	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.S05dAzyw8ECo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617335726230	Marionette	INFO	Listening on port 54512
+1617335726507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617335734630	Marionette	INFO	Stopped listening on port 54512
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617343757042	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.iQJ8do4N0z8X"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617343759761	Marionette	INFO	Listening on port 60303
+1617343759821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617343795058	Marionette	INFO	Stopped listening on port 60303
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617343815183	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.STmrD3m1oDI0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617343817785	Marionette	INFO	Listening on port 60580
+1617343817911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617343863718	Marionette	INFO	Stopped listening on port 60580
+1617344025454	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.A6YZKqTny29j"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617344027699	Marionette	INFO	Listening on port 61308
+1617344028180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617344073533	Marionette	INFO	Stopped listening on port 61308
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617344205275	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.axh7IapsuTT3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617344207510	Marionette	INFO	Listening on port 61979
+1617344208001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617344215699	Marionette	INFO	Stopped listening on port 61979
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1617688170947	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.XmgtRPnXlwqL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617688175640	Marionette	INFO	Listening on port 64099
+1617688175968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617688221369	Marionette	INFO	Stopped listening on port 64099
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617688255614	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.DbBskpxx5tW1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617688258030	Marionette	INFO	Listening on port 64261
+1617688258348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617688263727	Marionette	INFO	Stopped listening on port 64261
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1617688321806	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.7aBqjuEk86oY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617688324047	Marionette	INFO	Listening on port 64396
+1617688324544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617688329638	Marionette	INFO	Stopped listening on port 64396
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1617688486913	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.yrmrlatzkoj5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617688489247	Marionette	INFO	Listening on port 64607
+1617688489644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617688534820	Marionette	INFO	Stopped listening on port 64607
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617688675792	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.d0xcVxFicnJ1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617688678048	Marionette	INFO	Listening on port 64801
+1617688678526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617688724845	Marionette	INFO	Stopped listening on port 64801
+[Child 25840, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617688865432	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.5E5o2KWijlE2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617688867793	Marionette	INFO	Listening on port 65013
+1617688868157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617688914128	Marionette	INFO	Stopped listening on port 65013
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617689199192	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.4L1k6H5RVtoj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617689201837	Marionette	INFO	Listening on port 65524
+1617689201920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617689248086	Marionette	INFO	Stopped listening on port 65524
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1617689352171	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.kNvxObyl39jU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617689354394	Marionette	INFO	Listening on port 49349
+1617689354903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617689401438	Marionette	INFO	Stopped listening on port 49349
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617689536030	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.6L9dKpeJaNZK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617689538315	Marionette	INFO	Listening on port 49533
+1617689538764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617689585319	Marionette	INFO	Stopped listening on port 49533
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617689765913	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.6lUrZX6WGHzI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617689768100	Marionette	INFO	Listening on port 49714
+1617689768149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617689814937	Marionette	INFO	Stopped listening on port 49714
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1617689938401	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.85RQQiquqs11"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617689940649	Marionette	INFO	Listening on port 49864
+1617689941125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617689987866	Marionette	INFO	Stopped listening on port 49864
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617690089788	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.DWFiKQxR4Z0D"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617690092067	Marionette	INFO	Listening on port 50068
+1617690092514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617690139036	Marionette	INFO	Stopped listening on port 50068
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617690347795	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.fCjvxJS7Cx1D"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617690350302	Marionette	INFO	Listening on port 50310
+1617690350528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617690397080	Marionette	INFO	Stopped listening on port 50310
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/customhighlighter124, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:636:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:732:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:700:16\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://marionette/content/driver.js:2889:20\ndespatch@chrome://marionette/content/server.js:295:40\nexecute@chrome://marionette/content/server.js:265:16\nonPacket/<@chrome://marionette/content/server.js:238:20\nonPacket@chrome://marionette/content/server.js:239:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20\n", "resource://devtools/shared/protocol/Front.js", 99))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617690642901	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.m0hUHl7heIwC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617690645095	Marionette	INFO	Listening on port 50522
+1617690645133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617690692055	Marionette	INFO	Stopped listening on port 50522
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617690845072	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.nnLwbABKtstk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617690847242	Marionette	INFO	Listening on port 50688
+1617690847298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617690873383	Marionette	INFO	Stopped listening on port 50688
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617691142355	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.J6KVXm9GlCtm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617691144957	Marionette	INFO	Listening on port 50949
+1617691145082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617691191827	Marionette	INFO	Stopped listening on port 50949
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617691306596	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.jZjJ9aJfMulv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617691308920	Marionette	INFO	Listening on port 51224
+1617691309324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617691356188	Marionette	INFO	Stopped listening on port 51224
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617691388033	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.fe05KyLKUPvX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617691390387	Marionette	INFO	Listening on port 51363
+1617691390767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617691437637	Marionette	INFO	Stopped listening on port 51363
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker23, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:114:18\nstop@resource://devtools/client/inspector/node-picker.js:174:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3718:24\ndestroy@resource://devtools/client/framework/toolbox.js:3652:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:709:17\ndestroy@resource://devtools/client/framework/devtools-browser.js:754:24\nobserve@resource://devtools/client/framework/devtools-browser.js:191:26\nGeckoDriver.prototype.quit@chrome://marionette/content/driver.js:2889:20\ndespatch@chrome://marionette/content/server.js:295:40\nexecute@chrome://marionette/content/server.js:265:16\nonPacket/<@chrome://marionette/content/server.js:238:20\nonPacket@chrome://marionette/content/server.js:239:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20\n", "resource://devtools/shared/protocol/Front.js", 99))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1617691719234	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.dFlT8O4aDzV9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617691721488	Marionette	INFO	Listening on port 51678
+1617691721961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617691731864	Marionette	INFO	Stopped listening on port 51678
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617691853024	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.hEzloVPAWdV6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617691855356	Marionette	INFO	Listening on port 51845
+1617691855842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617691904281	Marionette	INFO	Stopped listening on port 51845
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617692538820	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.vt2FX4l85vNV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617692541125	Marionette	INFO	Listening on port 52124
+1617692541548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617692569982	Marionette	INFO	Stopped listening on port 52124
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617692668067	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.g3R5ETEIEpej"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617692670865	Marionette	INFO	Listening on port 52290
+1617692671293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617692699492	Marionette	INFO	Stopped listening on port 52290
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617693401803	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.JaQ18oBpvDwG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617693404173	Marionette	INFO	Listening on port 52784
+1617693404528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617693412250	Marionette	INFO	Stopped listening on port 52784
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617693503108	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.WUg4UASvv5Ew"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617693505359	Marionette	INFO	Listening on port 52912
+1617693505834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617693513626	Marionette	INFO	Stopped listening on port 52912
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1617693630354	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.LlqQxcjDHFxl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617693632510	Marionette	INFO	Listening on port 53139
+1617693632579	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617693640274	Marionette	INFO	Stopped listening on port 53139
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617693991068	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ss2u6ZdTw1Px"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617693993342	Marionette	INFO	Listening on port 53453
+1617693993796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617694002040	Marionette	INFO	Stopped listening on port 53453
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 27464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617694438857	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.nYOgFAVFDlyT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617694441914	Marionette	INFO	Listening on port 53799
+1617694442104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617694491703	Marionette	INFO	Stopped listening on port 53799
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1617694677022	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.OQhyQoPHhnEx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617694679417	Marionette	INFO	Listening on port 54087
+1617694679753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617694728194	Marionette	INFO	Stopped listening on port 54087
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617694956049	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Cg5k4lHxn3ot"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617694958500	Marionette	INFO	Listening on port 54347
+1617694958771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617695007239	Marionette	INFO	Stopped listening on port 54347
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617695653812	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.78b6fqDfdjlh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617695656412	Marionette	INFO	Listening on port 55126
+1617695656593	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617695705824	Marionette	INFO	Stopped listening on port 55126
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617695844572	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.wmvdzgIoEhFg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617695846804	Marionette	INFO	Listening on port 55307
+1617695847301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617695895125	Marionette	INFO	Stopped listening on port 55307
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/customhighlighter53, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:636:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:732:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:700:16\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://marionette/content/driver.js:2889:20\ndespatch@chrome://marionette/content/server.js:295:40\nexecute@chrome://marionette/content/server.js:265:16\nonPacket/<@chrome://marionette/content/server.js:238:20\nonPacket@chrome://marionette/content/server.js:239:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617695952556	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.1feGDNiowNFI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617695955912	Marionette	INFO	Listening on port 55463
+1617695956380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617695966028	Marionette	INFO	Stopped listening on port 55463
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617696128404	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.8hNP1fKoE4XP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617696134832	Marionette	INFO	Listening on port 55648
+1617696134942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617696183188	Marionette	INFO	Stopped listening on port 55648
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617696253650	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.QGT9KnEvVHgk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617696255871	Marionette	INFO	Listening on port 55847
+1617696256375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617696265776	Marionette	INFO	Stopped listening on port 55847
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617696512464	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.tOzduZeZzZ5t"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617696514665	Marionette	INFO	Listening on port 56101
+1617696514691	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1617696552847	Marionette	INFO	Stopped listening on port 56101
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617696582343	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ErZi1bFoQcYW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617696584548	Marionette	INFO	Listening on port 56201
+1617696584567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617696625353	Marionette	INFO	Stopped listening on port 56201
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617696673175	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.E5gm8i3oYK3Y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617696675291	Marionette	INFO	Listening on port 56347
+1617696675404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1617696715354	Marionette	INFO	Stopped listening on port 56347
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617696734885	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.VH5oXFvfOq9x"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617696737114	Marionette	INFO	Listening on port 56466
+1617696737614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+[Parent 18344, IPC I/O Parent] WARNING: pipe error: 995: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:485
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1617696764715	Marionette	INFO	Stopped listening on port 56466
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617696805681	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.HR2LwAWVWwjb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617696812049	Marionette	INFO	Listening on port 56609
+1617696812212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617696821196	Marionette	INFO	Stopped listening on port 56609
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1617697246849	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.cjDbHrcjHrn4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617697249139	Marionette	INFO	Listening on port 56964
+1617697249573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617697260735	Marionette	INFO	Stopped listening on port 56964
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617782148446	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.6fAoHvZBZVpq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617782157551	Marionette	INFO	Listening on port 65309
+1617782158077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617782205007	Marionette	INFO	Stopped listening on port 65309
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1617782421756	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.qWey239PJCuO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617782424164	Marionette	INFO	Listening on port 65507
+1617782424499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+JavaScript warning: https://uface-community.oss-cn-hangzhou.aliyuncs.com/assets/web/community_admin_web/release/static/js/ezuikit.js, line 1622: unreachable code after return statement
+1617782469805	Marionette	INFO	Stopped listening on port 65507
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619572833256	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.076CBuopXomK"
+1619572835973	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619572842556	Marionette	INFO	Listening on port 61139
+1619572842766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619572843315	Marionette	INFO	Stopped listening on port 61139
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619573036045	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.5TWKuLEZSmET"
+1619573036755	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619573038706	Marionette	INFO	Listening on port 61489
+1619573038794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619573039307	Marionette	INFO	Stopped listening on port 61489
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619573158565	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.4okHvTlGBsLk"
+1619573159248	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619573162128	Marionette	INFO	Listening on port 61812
+1619573162425	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+1619573169323	Marionette	INFO	Stopped listening on port 61812
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619573655643	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.HOHeTfgzmbGf"
+1619573656326	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619573658095	Marionette	INFO	Listening on port 62406
+1619573658396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:69
+unregisterCommandsActor@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://marionette/content/driver.js:2335:3
+onClosed@chrome://marionette/content/server.js:194:17
+close@chrome://marionette/content/transport.js:225:18
+onInputStreamReady@chrome://marionette/content/transport.js:379:14
+
+1619576494919	Marionette	INFO	Stopped listening on port 62406
+lla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.yAXKVtjcDkAK"
+1619576248382	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619576250632	Marionette	INFO	Listening on port 64176
+1619576251065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619576252218	Marionette	INFO	Stopped listening on port 64176
+1619576512326	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.fw3GB8xrWa8B"
+1619576513080	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619576514862	Marionette	INFO	Listening on port 64422
+1619576515141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619576516228	Marionette	INFO	Stopped listening on port 64422
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619576809285	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.gFhkuGX0F3KT"
+1619576809875	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619576811810	Marionette	INFO	Listening on port 64803
+1619576812034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619576817209	Marionette	INFO	Stopped listening on port 64803
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619576969805	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.PRnJit4H57ob"
+1619576970472	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619576972313	Marionette	INFO	Listening on port 65023
+1619576972563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619576977730	Marionette	INFO	Stopped listening on port 65023
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
